@@ -1,0 +1,19 @@
+{
+  "name": "node_training",
+  "version": "18.14.0",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agromreply/node-intro.git"
+  },
+  "author": "Alistair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agromreply/node-intro/issues"
+  },
+  "homepage": "https://github.com/agromreply/node-intro#readme"
+}
